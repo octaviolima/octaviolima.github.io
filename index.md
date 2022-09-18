@@ -8,6 +8,7 @@ My past internships at MIT and Princeton have further inspired me to pursue a ca
 
 ## Select Projects
 
-- [CIT 281 Projects](https://uo-cit.github.io/project-5-octaviolima/) Unix shell, Git, RESTful Web Apps with NodeJS, Express, MongoDB.
-- [CIT 111 Projects](https://pages.uoregon.edu/odelima/111) JavaScript ES6, DOM API, jQuery.
-- [CIT 110 Projects](https://pages.uoregon.edu/odelima/110) HTML, CSS.
+- [Natural Language Processing](https://www.dropbox.com/s/tj9xw6misrgbggv/Lima%20Octavio%20E%20Research%20Poster.pdf?dl=0) at Massachusetts Institute of Technology
+- [Public Policy](http://risk.princeton.edu/img/jsi/Economic_Consequences.pdf) at Princeton
+- [Predicting SPAM with Machine Learning](https://raw.githack.com/cyrustadjiki/Spam-Emails/master/R/Spam-Emails.html) at University of Oregon
+-[Text Mining & Webscraping](https://htmlpreview.github.io/?https://raw.githubusercontent.com/octaviolima/BigDataInEconomics/main/100m.html) at University of Oregon
